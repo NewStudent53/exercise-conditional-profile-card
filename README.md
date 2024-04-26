@@ -1,4 +1,5 @@
 it works, check the new image please.
+FYI: I think I made a mistake, in any case I'll upload this, take some rest and then continue to see if there's something I can fix, good night.
 <!--hide-->
 # Conditional Profile Card
 <!--endhide-->
